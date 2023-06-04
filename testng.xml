@@ -4,7 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="stepDefinations.Login"/>
-      
       <class name="stepDefinations.HomePage"/>
     </classes>
   </test> <!-- Test -->
